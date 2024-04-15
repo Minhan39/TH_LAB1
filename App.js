@@ -8,9 +8,10 @@ import Exam_5 from "./src/Exam_5";
 import Exam_6 from "./src/Exam_6";
 import Exam_7 from "./src/Exam_7";
 import Exam_8 from "./src/Exam_8";
+import Calculator from "./src/Calculator";
 
 export default function App() {
-  return <Exam_8 />;
+  return <Calculator />;
 }
 
 const styles = StyleSheet.create({
